@@ -1,0 +1,21 @@
+Linear RMSE: 7.472
+Linear R2:   0.268
+MAE:         5.995447631637127
+
+Logarithmic RMSE: 7.706
+Logarithmic R2:   0.221
+MAE:              6.114053043998481
+
+Quadratic RMSE: 7.474
+Quadratic R2:   0.267
+MAE:            5.992839454497558
+
+Cubic RMSE: 7.754
+Cubic R2:   0.212
+MAE:        6.174365075639921
+
+Fitting 3 folds for each of 144 candidates, totalling 432 fits
+Best hyperparameters: {'max_depth': 5, 'max_leaf_nodes': 10, 'min_samples_leaf': 1, 'min_samples_split': 2}
+Decision Tree RMSE: 7.522
+Decision Tree R2:   0.258
+Decision Tree MAE:  6.055616856875433
