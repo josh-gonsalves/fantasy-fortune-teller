@@ -1,0 +1,5 @@
+numpy>=1.26.4
+nflreadpy>=0.1.5
+scikit-learn>=1.7.2
+polars>=1.36.1
+matplotlib>=3.10.8
